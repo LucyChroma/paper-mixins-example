@@ -1,7 +1,7 @@
 {
     "required": true,
     "minVersion": "0.8.6",
-    "package": "tk.chroma.lucy.lucymixinplugin.mixin",
+    "package": "tk.chroma.lucy.papermixinsexample.mixin",
     "target": "@env(DEFAULT)",
     "compatibilityLevel": "JAVA_16",
     "mixins": [

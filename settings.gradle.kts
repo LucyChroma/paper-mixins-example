@@ -5,5 +5,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = "lucy-mixin-plugin"
+rootProject.name = "paper-mixins-example"
 

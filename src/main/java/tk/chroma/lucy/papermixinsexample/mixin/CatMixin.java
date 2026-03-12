@@ -1,4 +1,4 @@
-package tk.chroma.lucy.lucymixinplugin.mixin;
+package tk.chroma.lucy.papermixinsexample.mixin;
 
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.animal.feline.Cat;

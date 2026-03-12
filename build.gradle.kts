@@ -20,7 +20,7 @@ dependencies {
     paperweight.paperDevBundle("1.21.11-R0.1-SNAPSHOT")
 
     implementation("io.github.llamalad7:mixinextras-common:0.5.0")
-    implementation("com.floweytf.fabricpaperloader:fabric-paper-loader:2.0.0+fabric.0.17.2")
+    implementation("com.floweytf.fabricpaperloader:fabric-paper-loader:2.1.0+fabric.0.18.4")
 
     remapper("net.fabricmc:tiny-remapper:0.11.1") {
         artifact {

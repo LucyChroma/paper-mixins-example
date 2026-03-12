@@ -12,6 +12,8 @@ java {
     targetCompatibility = JavaVersion.VERSION_21
 }
 
+paperweight.awPath.set(file("src/main/resources/paper-mixins-example.accesswidener"))
+
 repositories {
     maven("https://maven.playmonumenta.com/releases/")
 }

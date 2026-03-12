@@ -3,7 +3,7 @@
     "id": "paper-mixins-example",
     "version": "1.0.0",
     "mixins": [
-        "paper-mixins-example.json"
+        "paper-mixins-example.mixins.json"
     ],
     "accessWidener": "paper-mixins-example.accesswidener"
 }

@@ -1,2 +1,2 @@
 # paper-mixins-example
-Example plugin for Floweynt's fabric-paper-loader
+Example mod for Floweynt's fabric-paper-loader

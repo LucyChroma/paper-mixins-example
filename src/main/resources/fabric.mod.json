@@ -1,0 +1,9 @@
+{
+    "schemaVersion": 1,
+    "id": "lucy-mixin-plugin",
+    "version": "${version}",
+    "mixins": [
+        "lucy-mixin-plugin.mixins.json"
+    ],
+    "accessWidener": "lucy-mixin-plugin.accesswidener"
+}
